@@ -1,0 +1,23 @@
+* {
+	padding: 20px;
+}
+
+body{
+	background: #85b8ff;
+	color: white;
+	margin-top: 300px;
+}
+.percent{
+	width: 15em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/****************
+Mobile Device CSS
+****************/
+@media only screen and (max-device-width: 480px) {
+	body{
+		background: black;
+	}
+}
